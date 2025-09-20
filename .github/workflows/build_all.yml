@@ -1,4 +1,4 @@
-name: Build Modul
+name: Build Module
 on: push
 
 env:
